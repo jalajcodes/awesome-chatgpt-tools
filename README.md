@@ -1,6 +1,6 @@
 # Awesome ChatGPT Tools
 
-> Curated list of resources for [ChatGPT](https://chat.openai.com) and GPT-3 from OpenAI
+> Repository listing all the awesome tools and services built using ChaGPT and other AI tools.
 
 #### GPT General Resources
 
@@ -18,6 +18,8 @@
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart)
 
+### Mobile Apps
+- [Write with AI in any app using the ChatGPT keyboard for iOS](https://gptkey.com/)
 
 ### Chrome Extensions
 - [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
